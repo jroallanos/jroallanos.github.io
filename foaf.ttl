@@ -7,8 +7,6 @@
 @prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 @prefix wd: <http://www.wikidata.org/entity/>.
-@prefix terms: <http://purl.org/dc/terms>.
-
 
 <> a foaf:Document ;
    dc:date "2020-12-11"^^xsd:date ;
