@@ -23,9 +23,11 @@
    foaf:age 22 ;
    foaf:img <https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ53UwQ-wPDmXWaWlEuvgd9DEdGw8FcvPRZKw&usqp=CAU> ;
    foaf:homepage <http://cl.linkedin.com/in/jroallanos> ;
-   foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab>;
-   social:hasEnemy <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me>  ;
+   foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me>, , <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>.
+   social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab>  ;
    foaf:interest wd:Q54837 , wd:Q15648198 , wd:Q20856802 , wd:Q208460, wd:Q14925221 ;
    social:hasSpiritAnimal wd:Q7369 ;
    foaf:gender wd:Q6581097;
+   foaf:nick "Ritto" ;
+   foaf:birthday "25/08" ;
    foaf:myersBriggs "ENFJ".
