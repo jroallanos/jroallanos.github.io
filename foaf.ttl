@@ -30,5 +30,4 @@
    foaf:interest wd:Q54837 , wd:Q15648198 , wd:Q20856802 , wd:Q208460, wd:Q14925221 ;
    social:hasSpiritAnimal wd:Q7369 ;
    foaf:gender wd:Q6581097;
-   foaf:myersBriggs "ENFJ"
-   .
+   foaf:myersBriggs "ENFJ".
