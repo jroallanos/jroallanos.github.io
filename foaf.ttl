@@ -10,21 +10,25 @@
 
 
 <> a foaf:Document ;
-   dc:date "2020-11-17"^^xsd:date ;
-   dc:title "Aidan's FOAF Profile"@en ;
-   foaf:primaryTopic <#ah> ;
-   dc:creator <#ah> .
+   dc:date "2020-12-11"^^xsd:date ;
+   dc:title "Joaquin's FOAF Profile"@en ;
+   foaf:primaryTopic <#jr> ;
+   dc:creator <#jr> .
 
-<#ah> a foaf:Person ;
-   rdfs:label "Aidan Hogan" ;
-   rdfs:comment "Profesor Asistente del DCC"@es ;
-   foaf:name "Aidan Hogan" ;
-   foaf:givenName "Aidan" ;
-   foaf:familyName "Hogan" ;
-   foaf:age 35 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
-   foaf:img <http://aidanhogan.com/img/me-sp.png> ;
+<#jr> a foaf:Person ;
+   rdfs:label "Joaquin Roa" ;
+   rdfs:comment "Student"@en ;
+   foaf:name "Joaquin Roa" ;
+   foaf:givenName "Joaquin" ;
+   foaf:familyName "Roa" ;
+   foaf:age 22 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
+   foaf:img <https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ53UwQ-wPDmXWaWlEuvgd9DEdGw8FcvPRZKw&usqp=CAU> ;
    foaf:homepage <http://users.dcc.uchile.cl/~ahogan> ;
+
+   foaf:homepage <https://cl.linkedin.com/in/jroallanos> ;
+
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me> ;
-   social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
+   social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> , <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me> ;
    foaf:interest wd:Q54837 , wd:Q19829492 , wd:Q1168073 , wd:Q1168073, wd:Q4050885 ;
-   foaf:myersBriggs "INTP" .
+   social:hasSpiritAnimal wd:Q7369 ;
+   foaf:myersBriggs "INTP".
