@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Joaquín A. Roa Llanos"
-  pronouns         : "él"
+  pronouns         : # "él"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Santiago de Chile"
   employer         : # "Red Brick University"
