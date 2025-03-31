@@ -1,6 +1,6 @@
 ---
 layout: about
-title: acerca de
+title: about
 permalink: /
 subtitle: Master of Data Science, Industrial Engineer, University of Chile #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
