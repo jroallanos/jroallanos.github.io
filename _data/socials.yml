@@ -46,6 +46,6 @@ telegram_username: jroallanos # your Telegram user name
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: hhttps://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png # can be png, svg, jpg
+  logo: https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-mono-500px.png # can be png, svg, jpg
   title: Letterboxd
   url: https://www.letterboxd.com/jroallanos
