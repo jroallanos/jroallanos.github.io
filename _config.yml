@@ -147,12 +147,12 @@ newsletter:
 collections:
   books:
     output: true
-  news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: true
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  # projects:
+  #   output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -196,6 +196,10 @@ exclude:
   ## deleting
   - _news
   - _includes/news.liquid
+  - _projects
+  - _pages/projects.md
+  - _includes/projects_horizontal.liquid
+  - _includes/projects.liquid
 keep_files:
   - CNAME
   - .nojekyll
