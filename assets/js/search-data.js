@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-teaching",
+          title: "teaching",
+          description: "Courses that I&#39;ve taught, both as lecturer and as teacher assistant.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "Publications, thesis, conferences.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Courses that I&#39;ve taught, both as lecturer and as a teaching assistant.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
