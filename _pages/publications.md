@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Thesis
 
-- ROA LLANOS, Joaquín. Herramientas de aprendizaje de máquinas para la predicción de actividades criminales. 2023 [en línea]. < https://repositorio.uchile.cl/handle/2250/195001>. ("*Machine Learning Tools for Crime Prediction*")
+- **ROA LLANOS, Joaquín**. Herramientas de aprendizaje de máquinas para la predicción de actividades criminales. 2023 [en línea]. < https://repositorio.uchile.cl/handle/2250/195001>. ("*Machine Learning Tools for Crime Prediction*")
 
 
 ## Conferences 
