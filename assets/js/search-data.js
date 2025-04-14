@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses that I&#39;ve taught, both as lecturer and as teacher assistant.",
+          description: "courses that I&#39;ve taught, both as lecturer and as teacher assistant.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Publications, thesis, conferences.",
+          description: "publications, thesis, conferences.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Projects that I have participated in.",
+          description: "projects that I have participated in.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
