@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: Projects that I have participated in.
+description: projects that I have participated in.
 nav: true
 nav_order: 4
 ---

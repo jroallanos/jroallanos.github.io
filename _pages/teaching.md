@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses that I've taught, both as lecturer and as teacher assistant.
+description: courses that I've taught, both as lecturer and as teacher assistant.
 nav: true
 nav_order: 2
 ---
@@ -12,7 +12,7 @@ nav_order: 2
 Organize your courses by years, topics, or universities, however you like!
  -->
 
-## Lecturer
+## lecturer
 
 - **Criminal Analysis** ("*Diploma de Postítulo en Análisis Criminal*", Spring 2024), postgraduate diploma, Investigations Police of Chile and Faculty of Government, University of Chile.
 - **Data Science** ("*Ciencia de los Datos*", Autumn 2024). Undergraduate, dept. of Industrial Engineering, University of Chile. Students' rating: **6.8**/7.0.
@@ -21,7 +21,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
-## Teacher Assistant
+## teacher Assistant
 
 - **Artificial Intelligence Applied to Business**, Postgraduate Diploma, University of Chile, 2024.
 - **Business Inteligence**, Postgraduate Diploma, University of Chile, 2024.
@@ -41,7 +41,7 @@ Organize your courses by years, topics, or universities, however you like!
 - **Statistics**, Industrial Engineering, University of Chile, 2019.
 
 
-## Coordinator
+## coordinator
 - **Data Science**, Industrial Engineering, University of Chile, 2024.
 
 
