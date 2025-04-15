@@ -21,7 +21,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
-## teacher Assistant
+## teacher assistant
 
 - **Artificial Intelligence Applied to Business**, Postgraduate Diploma, University of Chile, 2024.
 - **Business Inteligence**, Postgraduate Diploma, University of Chile, 2024.
