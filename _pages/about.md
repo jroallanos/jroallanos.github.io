@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master of Data Science, Industrial Engineer, University of Chile #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: University of Chile #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_8972.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
 #    <p>555 your office number</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Joaquín A. Roa Llanos. I'm a Chilean Master of Data Science and Industrial Engineer from University of Chile.
+My name is Joaquín A. Roa Llanos. I'm a Chilean Master of Data Science and Industrial Engineer from University of Chile. Currently in Leuven, Belgium! 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
