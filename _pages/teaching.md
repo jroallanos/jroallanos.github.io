@@ -27,7 +27,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 This role can be divided into two distinct positions commonly found in Latin American academic contexts: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects.
 
-In the list below, for simplicity, there is no distinction between the two roles. However, roughly speaking, entries in the second half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the first half refer more closely to the 'ayudante/*teaching assistant*' role.
+In the list below, for simplicity, there is no distinction between the two roles. However, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role.
 
 
 - **Artificial Intelligence Applied to Business**, Postgraduate Diploma, University of Chile, 2024.
