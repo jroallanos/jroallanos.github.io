@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 # description: publications, thesis, conferences.
-description: publications, thesis, conferences.
+description: 
 nav: true
 nav_order: 3
 ---
