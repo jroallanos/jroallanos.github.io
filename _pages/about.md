@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Chile #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Researcher at KU Leuven #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Mi nombre es Joaquín Roa Llanos. Actualmente, estoy encaminado a ser estudiante de doctorado en la Universidad Católica de Lovaina (KU Leuven). Soy ingeniero civil industrial y magíster en Ciencia de Datos de la Universidad de Chile. 
+My name is Joaquín A. Roa Llanos, and I am a PhD Researcher at the LIRIS Group, KU Leuven (Brussels, Belgium). I am currently pursuing a PhD in Business Economics at the Faculty of Economics and Business, KU Leuven.
 
+My research focuses on smart agriculture, IoT solutions, and machine learning, with additional interests in machine learning for public policing and strategic management. My doctoral work is supervised by Prof. Dr. Estefanía Serral Asensio and Prof. Dr. Jan Diels.
 
-**[English]**
+I hold a Master's degree in Data Science and a Bachelor’s degree in Industrial Engineering from the University of Chile. My joint master’s thesis, 'Machine Learning Tools for Crime Predictions', was supervised by Prof. Dr. Richard Weber and Prof. Dr. Sebastián Maldonado.
 
-My name is Joaquín A. Roa Llanos. I'm a Chilean Master of Data Science and Industrial Engineer from University of Chile. Currently in Leuven, Belgium! 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
