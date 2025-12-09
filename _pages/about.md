@@ -17,7 +17,7 @@ selected_papers: false # true # includes a list of papers marked as "selected={t
 social: true # includes social icons at the bottom of the page
 
 announcements:
- enabled: false # includes a list of news items
+ enabled: true # includes a list of news items
  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
  limit:   # leave blank to include all the news in the `_news` folder
 
@@ -29,7 +29,7 @@ latest_posts:
 
 My name is Joaquín Roa, and I am a **PhD Researcher** at the LIRIS Group, KU Leuven (Brussels, Belgium). I am currently pursuing a PhD in Business Economics at the Faculty of Economics and Business, **KU Leuven**.
 
-My research focuses on smart agriculture, IoT solutions, and machine learning, with additional interests in machine learning for public policing and strategic management. My doctoral work is supervised by Prof. Dr. Estefanía Serral Asensio and Prof. Dr. Jan Diels.
+My research focuses on machine learning, smart agriculture and IoT solutions, with additional interests in machine learning for public policing and strategic management. My doctoral work is supervised by Prof. Dr. Estefanía Serral Asensio and Prof. Dr. Ir. Jan Diels.
 
 I hold a Master's degree in Data Science and a Bachelor’s degree in Industrial Engineering from University of Chile. My master’s thesis, 'Machine Learning Tools for Crime Predictions', was supervised by Prof. Dr. Richard Weber and Prof. Dr. Sebastián Maldonado.
 
