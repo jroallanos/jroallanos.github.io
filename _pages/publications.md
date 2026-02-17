@@ -16,6 +16,7 @@ nav_order: 3
 
 ## conference proceedings
 
+- **Roa, J.**, Diels, J., Serral Asensio, E. (2026). *Causal Estimation of Midday Stem Water Potential for Decision-Oriented Irrigation Scheduling*. In Proceedings of the 40th Annual Conference of the Belgian Operational Research Society (abstract), Leuven (Belgium). 
 - Vairetti, C., Maldonado, S., Weber, R., **Roa, J.**, Jara, R., Queirolo, J. T. (2025). *Burglary prediction using graph-based deep learning on crime reporting app data*. In Proceedings of the 34th European Conference on Operational Research (abstract), Leeds (United Kingdom). 
 - **Roa, J.**, Saint-Pierre, C., Peet, T. (2024). *Sequence mining algorithm for student's failure classification in multiple blended courses scenarios*. In Proceedings of the 33rd European Conference on Operational Research (abstract), Copenhagen (Denmark). 
 - Maldonado, S., **Roa, J.**, Weber, R., Vairetti, C. (2024). *Using crime report app data to predict burglary via machine learning*. In Proceedings of the 33rd European Conference on Operational Research (abstract), Copenhagen (Denmark). 
