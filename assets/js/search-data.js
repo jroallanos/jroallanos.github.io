@@ -67,11 +67,13 @@ ninja.data = [{
             },},{id: "news-i-officially-started-my-phd",
           title: 'I officially started my PhD!',
           description: "",
-          section: "News",},{id: "news-i-presented-at-the-orbel-conference-in-leuven-belgium",
-          title: 'I presented at the ORBEL conference in Leuven, Belgium.',
+          section: "News",},{id: "news-i-am-organizing-a-session-at-the-next-ifors-2026-conference",
+          title: 'I am organizing a session at the next IFORS 2026 conference.',
           description: "",
-          section: "News",},{id: "news-more-details-in-my-linkedin-post",
-          title: 'More details in my LinkedIn post.',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-i-presented-at-the-orbel-conference-in-leuven-belgium",
+          title: 'I presented at the ORBEL conference in Leuven, Belgium.',
           description: "",
           section: "News",},{
         id: 'social-email',
