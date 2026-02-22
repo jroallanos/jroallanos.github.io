@@ -90,13 +90,6 @@ ninja.data = [{
           window.open("https://telegram.me/jroallanos", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.letterboxd.com/jroallanos", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
