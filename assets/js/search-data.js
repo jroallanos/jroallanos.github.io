@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-teaching",
           title: "teaching",
-          description: "courses that I&#39;ve taught, both as lecturer and as teacher assistant.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "projects that I have participated in.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
