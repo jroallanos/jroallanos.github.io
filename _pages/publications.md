@@ -8,12 +8,6 @@ nav: true
 nav_order: 3
 ---
 
-
-## posters
-
-- Deforce, B., **Roa Llanos, J.**, Baesens, B., Diels, J., Serral Asensio, E. (2025). *GREEN-IT: A novel sustainability-driven IoT-based analytics suite for smart irrigation*. Leuven.AI conference, Leuven (Belgium). 
-
-
 ## conference proceedings
 
 - **Roa, J.**, Diels, J., Serral Asensio, E. (2026). *Causal Estimation of Midday Stem Water Potential for Decision-Oriented Irrigation Scheduling*. In Proceedings of the 40th Annual Conference of the Belgian Operational Research Society (abstract), Leuven (Belgium). 
@@ -28,6 +22,10 @@ nav_order: 3
 
 - **Roa Llanos, J.** (2023). Herramientas de aprendizaje de máquinas para la predicción de actividades criminales. < https://repositorio.uchile.cl/handle/2250/195001>. ("*Machine Learning Tools for Crime Prediction*"). Universidad de Chile Repository. Submitted in fulfillment of the requirements for the M.Sc. in Data Science and the professional title of Industrial Engineer.
 
+
+## posters
+
+- Deforce, B., **Roa Llanos, J.**, Baesens, B., Diels, J., Serral Asensio, E. (2025). *GREEN-IT: A novel sustainability-driven IoT-based analytics suite for smart irrigation*. Leuven.AI conference, Leuven (Belgium). 
 
 ## session chair
 - Learning Analytics and other Text Analytics tasks (2024). 33rd European Conference on Operational Research, Copenhagen, Denmark.
