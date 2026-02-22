@@ -2,7 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: courses that I've taught, both as lecturer and as teacher assistant.
+# description: courses that I've taught, both as lecturer and as teacher assistant.
+description: 
 nav: true
 nav_order: 2
 ---
@@ -25,9 +26,12 @@ Organize your courses by years, topics, or universities, however you like!
 
 <!-- This role can be subdivided as both 'auxiliary teacher' (*profesor auxiliar*), in which the role consists into teaching students, contributing to organize the syllabus, amongst other tasks. Also, it is listed a different role, which could be translated as assistant (*ayudante*), where the role is to grade evaluations, assist students in course projects, amongst others. Here they are mixed, but roughfly the latter half are almost all 'auxiliary' roles, and the first half, assistant as described. -->
 
-This role can be divided into two distinct positions commonly found in Latin American academic contexts: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects.
+<!-- This role can be divided into two distinct positions commonly found in Latin American academic contexts: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects.
 
-In the list below, for simplicity, there is no distinction between the two roles. However, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role.
+In the list below, for simplicity, there is no distinction between the two roles. However, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role. -->
+
+This role can be divided into two distinct positions: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects. In the list below, for simplicity, there is no distinction between the two roles, however, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role.
+
 
 
 - **Artificial Intelligence Applied to Business**, Postgraduate Diploma, University of Chile, 2024.

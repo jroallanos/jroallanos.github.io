@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: projects that I have participated in.
+description: 
 nav: true
 nav_order: 4
 ---
@@ -17,8 +17,9 @@ nav_order: 4
 - **Jun. 2023 - Dec. 2023.** 'Preparation of the Regional Development Strategy of the Tarapacá Region 2023-2033'. Tarapacá Regional Government. **Project Engineer**.
 - **May. 2023 - Feb. 2025.** 'Information analysis system in online educational platforms: Learning Analytics to improve educational processes'. **Coordinator \& Project Engineer**. -->
 
-- **Dic. 2024 - Act.** 'Diagnóstico Gobernanza y Participación Política de Movilidad RMS'. Gobierno Metropolitano de Santiago. **Ingeniero de Proyecto.**
-- **Jun. 2024 - Act.** 'Modelo para la detección de licencias médicas sin fundamento médico'. Superintendencia de Seguridad Social. **Ingeniero de Proyecto.**
+- **Ago. 2025 - Act.** 'GREEN-IT: A novel value-driven IoT-based analytics suite for smart irrigation'. FWO. **PhD Researcher.**
+- **Jun. 2024 - Oct. 2025** 'Modelo para la detección de licencias médicas sin fundamento médico'. Superintendencia de Seguridad Social. **Ingeniero de Proyecto.**
+- **Dic. 2024 - Sept. 2025** 'Diagnóstico Gobernanza y Participación Política de Movilidad RMS'. Gobierno Metropolitano de Santiago. **Ingeniero de Proyecto.**
 - **May. 2023 - Feb. 2025.** 'FONDEF Sistema de análisis de información en plataformas educacionales online: Learning Analytics para mejorar procesos educativos'. **Coordinador e Ingeniero de Proyecto**.
 - **Mar. 2024 - Sep. 2024.** 'Sistema automatizado de clasificación y detección temprana de fraude en el uso de licencias médicas'. Instituto Sistemas Complejos de Ingeniería. **Jefe de Proyecto.**
 - **Abr. 2024 - Ago. 2024.** 'CLE-210/2023 Estimación del presupuesto para garantizar un piso de protección social para la niñez'. UNICEF. **Ingeniero de Proyecto.**
