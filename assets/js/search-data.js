@@ -64,7 +64,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-i-officially-started-my-phd",
+          title: 'I officially started my PhD!',
+          description: "",
+          section: "News",},{id: "news-i-presented-at-the-orbel-conference-in-leuven-belgium",
+          title: 'I presented at the ORBEL conference in Leuven, Belgium.',
+          description: "",
+          section: "News",},{id: "news-more-details-in-my-linkedin-post",
+          title: 'More details in my LinkedIn post.',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
