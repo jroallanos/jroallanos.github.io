@@ -6,7 +6,11 @@ inline: false
 related_posts: false
 ---
 
-More details in my <a href="https://www.linkedin.com/posts/jroallanos_im-happy-to-share-that-for-the-next-ifors-activity-7400166360397549568-Ac3G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi63iMBrk6SpgVEKWp7i4YOi2gToXlag2U">LinkedIn post</a>.
+For the next IFORS conference, which will take place in Vienna from 12-17 July 2026, I will be organizing a session titled "Causal Machine Learning for Data-Driven Decision Support Systems", within the Analytics stream.
+
+IFORS 2026 will take place in Vienna, from 12 to 17 July. The abstract submission deadline is March 15th. I’d like to invite you to submit your abstract to the session if you're working on causal inference, causal machine learning for time series, or related applications.
+
+To submit to the session, you can write me an email and I can share the submission code. See you in Vienna!
 
 ---
 <!-- 
