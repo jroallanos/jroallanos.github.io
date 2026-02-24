@@ -64,7 +64,7 @@ ninja.data = [{
           title: 'I am organizing a session at the next IFORS 2026 conference.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/20251128IFORS/";
             },},{id: "news-i-presented-at-the-orbel-conference-in-leuven-belgium",
           title: 'I presented at the ORBEL conference in Leuven, Belgium.',
           description: "",
