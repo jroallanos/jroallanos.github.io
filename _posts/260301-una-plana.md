@@ -1,0 +1,32 @@
+---
+layout: post
+title: una plana
+date: 2026-03-01 11:30:00
+description: 
+tags: 
+categories: 
+thumbnail: 
+---
+
+En aprendizaje automático (machine learning) se dice que un modelo converge en su entrenamiento, y por tanto su desempeño y generalización son buenas, cuando después de numerosas “épocas” ha probado distintas iteraciones y ha encontrado la mejor de todas. Es decir; comienza desde un cierto punto inicial, pero luego va haciendo diversas pruebas, y comprueba en base a una función objetivo cómo lo está haciendo. Luego de muchas épocas y modificaciones ha llegado a un mejor resultado de como estaba cuando comenzó, y más representativo “del mundo real”. 
+
+En Chile habíamos alcanzado a nivel institucional una convergencia después de más de 150 años de historia republicana, en distintos ámbitos. En particular, Chile al año 1969 contaba con numerosas provincias (y no regiones) que daban cuenta de sus necesidades de organización territorial, producto de numerosas pruebas, ensayo y error. La actual Región Metropolitana tenía balneario y puerto en el sector de San Antonio; la provincia de San Fernando era independiente de la de Rancagua; y la provincia de Linares, de Talca; entre otros ejemplos.
+
+ 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/una-plana/2048px-Mapa_No._22._Provincia_de_Linares-7930029.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Mapa No. 22. Provincia de Linares. De Atlas de Chile Arreglado para la Jeografia Descriptiva de la Republica de Chile por Enrique Espinoza. (1903)
+
+</div>
+
+
+En educación superior, Chile contaba a aquel año con 8 universidades. Hoy, cuenta con 55. Chile a lo largo de su historia republicana siempre tuvo esfuerzos por llegar a territorios alejados y extremos, y hacer patria. A nivel de educación superior ese también era el caso. Contaba con la Universidad del Norte (que era privada), con la Universidad de Chile en Talca, en Valdivia. Con escuelas técnicas orientadas a minería en el norte – sin mencionar las escuelas normalistas, y de diferentes tipos, a lo largo de todo Chile. 
+
+Por diferentes motivos, y por los horrores que ocurrieron, ese ya no es el caso hoy. Pero yo pienso que deberíamos escuchar a nuestra historia, y considerar todas las iteraciones que tuvo nuestro país a lo largo de ella, para entender cuál realmente es la distribución territorial que lo representa, y tener representación de educación estatal en cada uno de estos territorios. Esto debe considerar la matriz productiva de cada uno de estos territorios, y enfocar los esfuerzos y los recursos en la educación que prioritariamente necesita en comparación a otros grados y pregrados. Esto permitirá avanzar en regionalización, e inyectará recursos en las ciudades que hoy no están consideradas para este tipo de desarrollo por parte del Estado. 
+
+Imaginemos el caso hipotético de que mañana se funda en Linares la Universidad San Ambrosio de Linares (USAL); una universidad estatal, donde el Estado de Chile asume la responsabilidad de educar a sus ciudadanos de esta provincia. La ciudad aumentaría la cantidad de habitantes que tiene. Los jóvenes no se irían a Santiago, Concepción o Talca como hoy lo hacen. Las pizzerías de Linares tendrían más mesas llenas; los pubs venderían más cervezas los viernes en la tarde, y las empresas agrícolas tendrían más estudiantes con quienes probar nuevas ideas en base a las técnicas más modernas. Los linarenses que estudiamos en otras ciudades podríamos volver desde donde hemos hecho carrera, y desde la medicina, la psicología o la ingeniería podríamos contribuir al desarrollo de nuestra ciudad.
+
