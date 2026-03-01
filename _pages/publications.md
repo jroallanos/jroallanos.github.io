@@ -16,6 +16,8 @@ nav_order: 3
 - Maldonado, S., **Roa, J.**, Weber, R., Vairetti, C. (2024). *Using crime report app data to predict burglary via machine learning*. In Proceedings of the 33rd European Conference on Operational Research (abstract), Copenhagen (Denmark). 
 - **Roa, J.**, Coussement, C., Maldonado, S., Weber, R. (2022) *Interpretation in models for crime prediction*. In Proceedings of the 32nd European Conference on Operational Research (abstract), Espoo (Finland).
 - Maldonado, S., **Roa, J.**, Weber, R. (2022). *Burglary prediction via machine learning and crime report app data*. In Proceedings of the 32nd European Conference on Operational Research (abstract), Espoo (Finland). 
+ <!-- podria poner cuando expuse al final del proyecto fondef de Cecilia )? -->
+
 
 
 ## thesis
