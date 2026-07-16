@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
  enabled: true # includes a list of news items
- scrollable: ture # adds a vertical scroll bar if there are more than 3 news items
+ scrollable: true # adds a vertical scroll bar if there are more than 3 news items
  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -29,9 +29,9 @@ latest_posts:
 
 My name is Joaquín Roa, and I am a **PhD Researcher** at the LIRIS Group, KU Leuven (Brussels, Belgium). I am currently pursuing a PhD in Business Economics at the Faculty of Economics and Business, **KU Leuven**.
 
-My research focuses on machine learning, smart agriculture and IoT solutions, with additional interests in machine learning for public policing and strategic management. My doctoral work is supervised by Prof. Dr. Estefanía Serral Asensio and Prof. Dr. Ir. Jan Diels.
+My research focuses on machine learning, smart agriculture and IoT solutions, with additional interests in machine learning for public policing and strategic management. My doctoral work is supervised by Prof. Dr. Estefanía Serral Asensio and co-supervised by Prof. Dr. Ir. Jan Diels.
 
-I hold a Master's degree in Data Science and a Bachelor’s degree in Industrial Engineering from University of Chile. My master’s thesis, 'Machine Learning Tools for Crime Predictions', was supervised by Prof. Dr. Richard Weber and Prof. Dr. Sebastián Maldonado.
+I hold a Master's degree in Data Science and a Bachelor’s degree in Industrial Engineering from University of Chile. My master’s thesis, 'Machine Learning Tools for Crime Predictions', was supervised by Prof. Dr. Richard Weber and co-supervised by Prof. Dr. Sebastián Maldonado.
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
