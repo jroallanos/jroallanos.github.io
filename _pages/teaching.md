@@ -24,21 +24,16 @@ Organize your courses by years, topics, or universities, however you like!
 
 ## teaching assistant
 
-<!-- This role can be subdivided as both 'auxiliary teacher' (*profesor auxiliar*), in which the role consists into teaching students, contributing to organize the syllabus, amongst other tasks. Also, it is listed a different role, which could be translated as assistant (*ayudante*), where the role is to grade evaluations, assist students in course projects, amongst others. Here they are mixed, but roughfly the latter half are almost all 'auxiliary' roles, and the first half, assistant as described. -->
-
-<!-- This role can be divided into two distinct positions commonly found in Latin American academic contexts: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects.
-
-In the list below, for simplicity, there is no distinction between the two roles. However, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role. -->
 
 This role can be divided into two distinct positions: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects. In the list below, for simplicity, there is no distinction between the two roles, however, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role.
 
 
-
+- **ICT Management** (HBA22c), KU Leuven, Brussels, Belgium, 2026.  <!-- Sessions on Power BI + Machine Learning Fundamentals.  -->
 - **Artificial Intelligence Applied to Business**, Postgraduate Diploma, University of Chile, 2024.
-- **Business Inteligence**, Postgraduate Diploma, University of Chile, 2024.
+- **Business Intelligence**, Postgraduate Diploma, University of Chile, 2024.
 - **Data Mining**, Industrial Engineering, University of Chile, 2024.
-- **Business Inteligence**, Postgraduate Diploma, University of Chile, 2023.
-- **Business Inteligence**, Postgraduate Diploma, University of Chile, 2023.
+- **Business Intelligence**, Postgraduate Diploma, University of Chile, Spring 2023.
+- **Business Intelligence**, Postgraduate Diploma, University of Chile, Fall 2023.
 - **Data Science**, Industrial Engineering, University of Chile, 2023.
 - **Data Mining**, Industrial Engineering, University of Chile, 2023.
 - **Data Mining**, Industrial Engineering, University of Chile, 2022.
