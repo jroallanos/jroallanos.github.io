@@ -8,18 +8,21 @@ nav: true
 nav_order: 3
 ---
 
-<!-- ## journal paper -->
+## journal articles
+
+- Vairetti, C., Maldonado, S., Weber, R., **Roa Llanos, J.** (2026). *Explainable Spatiotemporal Modeling in Crime Analytics: Robbery Prediction via Graph Neural Networks*. Expert Systems with Applications, 134457. <https://doi.org/10.1016/j.eswa.2026.134457>
 
 
 ## conference proceedings
 
+- **Roa Llanos, J.**, Kalai, T., Serral Asensio, E., Snoeck, M. (2026). *A MERODE Domain Model for Smart Irrigation Experiments: Addressing Sensor Data Collection and Integration*. In Proceedings of the 19th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling (PoEM 2026), 1–3 December 2026, Mytilene (Greece). Springer LNBIP (to appear).
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *Forecasting Hydric Stress in Pear Trees via Temporal Fusion Transformers and Microtensiometer Data*. In Proceedings of the 24th Conference of the International Federation of Operational Research Societies (IFORS 2026) (abstract), 12–17 July 2026, Vienna (Austria). 
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *Causal Estimation of Midday Stem Water Potential for Decision-Oriented Irrigation Scheduling*. In Proceedings of the 40th Annual Conference of the Belgian Operational Research Society (abstract), Leuven (Belgium). 
 - Vairetti, C., Maldonado, S., Weber, R., **Roa Llanos, J.**, Jara, R., Queirolo, J. T. (2025). *Burglary prediction using graph-based deep learning on crime reporting app data*. In Proceedings of the 34th European Conference on Operational Research (abstract), Leeds (United Kingdom). 
 - **Roa Llanos, J.**, Saint-Pierre, C., Peet, T. (2024). *Sequence mining algorithm for student's failure classification in multiple blended courses scenarios*. In Proceedings of the 33rd European Conference on Operational Research (abstract), Copenhagen (Denmark). 
 - Maldonado, S., **Roa Llanos, J.**, Weber, R., Vairetti, C. (2024). *Using crime report app data to predict burglary via machine learning*. In Proceedings of the 33rd European Conference on Operational Research (abstract), Copenhagen (Denmark). 
 - Maldonado, S., **Roa Llanos, J.**, Weber, R. (2022). *Burglary prediction via machine learning and crime report app data*. In Proceedings of the 32nd European Conference on Operational Research (abstract), Espoo (Finland). 
-- **Roa Llanos, J.**, Coussement, C., Maldonado, S., Weber, R. (2022) *Interpretation in models for crime prediction*. In Proceedings of the 32nd European Conference on Operational Research (abstract), Espoo (Finland).
+- **Roa Llanos, J.**, Coussement, C., Maldonado, S., Weber, R. (2022). *Interpretation in models for crime prediction*. In Proceedings of the 32nd European Conference on Operational Research (abstract), Espoo (Finland).
 
 
 
@@ -36,4 +39,4 @@ nav_order: 3
 ## session chair
 
 - Causal Machine Learning for Data-Driven Decision Support Systems (stream "Analytics"). The 24th Conference of the International Federation of Operational Research Societies (IFORS 2026), 12–17 July 2026, Vienna (Austria). 
-- Learning Analytics and other Text Analytics tasks (2024). 33rd European Conference on Operational Research, Copenhagen, Denmark.
+- Learning Analytics and other Text Analytics tasks. 33rd European Conference on Operational Research (EURO 2024), Copenhagen (Denmark).
