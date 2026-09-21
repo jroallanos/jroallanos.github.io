@@ -15,7 +15,7 @@ nav_order: 3
 
 ## conference proceedings
 
-- **Roa Llanos, J.**, Kalai, T., Serral Asensio, E., Snoeck, M. (2026). *A MERODE Domain Model for Smart Irrigation Experiments: Addressing Sensor Data Collection and Integration*. In Proceedings of the 19th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling (PoEM 2026), 1–3 December 2026, Mytilene (Greece). Springer LNBIP (to appear).
+- **Roa Llanos, J.**, Kalai, T., Snoeck, M., Serral Asensio, E. (2026). *A MERODE Domain Model for Smart Irrigation Experiments: Addressing Sensor Data Collection and Integration*. In Proceedings of the 19th IFIP WG 8.1 Working Conference on the Practice of Enterprise Modeling (PoEM 2026), 1–3 December 2026, Mytilene (Greece). Springer LNBIP (to appear).
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *Forecasting Hydric Stress in Pear Trees via Temporal Fusion Transformers and Microtensiometer Data*. In Proceedings of the 24th Conference of the International Federation of Operational Research Societies (IFORS 2026) (abstract), 12–17 July 2026, Vienna (Austria). 
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *Causal Estimation of Midday Stem Water Potential for Decision-Oriented Irrigation Scheduling*. In Proceedings of the 40th Annual Conference of the Belgian Operational Research Society (abstract), Leuven (Belgium). 
 - Vairetti, C., Maldonado, S., Weber, R., **Roa Llanos, J.**, Jara, R., Queirolo, J. T. (2025). *Burglary prediction using graph-based deep learning on crime reporting app data*. In Proceedings of the 34th European Conference on Operational Research (abstract), Leeds (United Kingdom). 

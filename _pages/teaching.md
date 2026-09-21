@@ -22,13 +22,20 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
+## Master's Theses
+
+- **Unlocking IoT Data with Clustering for Smart Farming: Evaluating clustering of IoT sensor data against stem water potential to assess irrigation regimes in a pear orchard** — Alpin Deda & Damian Tellez Mondragon (2026). Master of Business Administration, track Business Information Management, Faculty of Economics and Business, KU Leuven. *Daily Supervisor.*
+
+- **Causal Machine Learning in Smart Agriculture — drivers of stem water potential in a pear orchard: a causal discovery analysis using PCMCI+** — Dinh Truong Luong (2026). Master of Business Administration, track Business Information Management, Faculty of Economics and Business, KU Leuven. *Daily Supervisor.*
+
+
 ## teaching assistant
 
 
 This role can be divided into two distinct positions: 'profesor auxiliar' (*auxiliary instructor*) and 'ayudante' (*teaching assistant*). As an *auxiliary instructor*, responsibilities include delivering lectures, contributing to syllabus design, and supporting the overall coordination of the course. In contrast, the *teaching assistant* role typically involves grading assignments and providing support to students in course projects. In the list below, for simplicity, there is no distinction between the two roles, however, roughly speaking, entries in the most recent half of the list correspond to the 'profesor auxiliar/*auxiliary instructor*' role, while those in the other refer more closely to the 'ayudante/*teaching assistant*' role.
 
 
-- **ICT Management** (HBA22c), KU Leuven, Brussels, Belgium, 2026.  <!-- Sessions on Power BI + Machine Learning Fundamentals.  -->
+- **ICT Management** (HBA22c), KU Leuven, Brussels, Belgium, 2026.  
 - **Artificial Intelligence Applied to Business**, Postgraduate Diploma, University of Chile, 2024.
 - **Business Intelligence**, Postgraduate Diploma, University of Chile, 2024.
 - **Data Mining**, Industrial Engineering, University of Chile, 2024.
