@@ -22,7 +22,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
-## Master's Theses
+## master's theses
 
 - **Unlocking IoT Data with Clustering for Smart Farming: Evaluating clustering of IoT sensor data against stem water potential to assess irrigation regimes in a pear orchard** — Alpin Deda & Damian Tellez Mondragon (2026). Master of Business Administration, track Business Information Management, Faculty of Economics and Business, KU Leuven. *Daily Supervisor.*
 

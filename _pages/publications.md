@@ -26,15 +26,18 @@ nav_order: 3
 
 
 
+## posters
+
+- **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *To Irrigate or Not to Irrigate: Time-Series Forecasting Models for Predicting Whether Pear Orchards Will Be Thirsty*. Probabilistic AI School (ProbAI School 2026), 3-7 August 2026, Vilnius (Lithuania). 
+- Deforce, B., **Roa Llanos, J.**, Baesens, B., Diels, J., Serral Asensio, E. (2025). *GREEN-IT: A novel sustainability-driven IoT-based analytics suite for smart irrigation*. Leuven.AI conference, Leuven (Belgium). 
+
+
 ## thesis
 
 - **Roa Llanos, J.** (2023). Herramientas de aprendizaje de máquinas para la predicción de actividades criminales. <https://repositorio.uchile.cl/handle/2250/195001>. ("*Machine Learning Tools for Crime Prediction*"). Universidad de Chile Repository. Submitted in fulfillment of the requirements for the M.Sc. in Data Science and the professional title of Industrial Engineer.
 
 
-## posters
 
-- **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *To Irrigate or Not to Irrigate: Time-Series Forecasting Models for Predicting Whether Pear Orchards Will Be Thirsty*. Probabilistic AI School (ProbAI School 2026), 3-7 August 2026, Vilnius (Lithuania). 
-- Deforce, B., **Roa Llanos, J.**, Baesens, B., Diels, J., Serral Asensio, E. (2025). *GREEN-IT: A novel sustainability-driven IoT-based analytics suite for smart irrigation*. Leuven.AI conference, Leuven (Belgium). 
 
 ## session chair
 
