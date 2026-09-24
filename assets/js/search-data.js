@@ -79,6 +79,12 @@ ninja.data = [{
             },},{id: "news-i-presented-at-the-orbel-conference-in-leuven-belgium",
           title: 'I presented at the ORBEL conference in Leuven, Belgium.',
           description: "",
+          section: "News",},{id: "news-our-paper-was-accepted-at-poem-2026",
+          title: 'Our paper was accepted at PoEM 2026!',
+          description: "",
+          section: "News",},{id: "news-our-paper-was-published-in-expert-systems-with-applications",
+          title: 'Our paper was published in Expert Systems with Applications!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
