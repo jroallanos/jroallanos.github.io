@@ -26,7 +26,7 @@ nav_order: 3
 
 
 
-## posters
+## poster presentations
 
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *To Irrigate or Not to Irrigate: Time-Series Forecasting Models for Predicting Whether Pear Orchards Will Be Thirsty*. Probabilistic AI School (ProbAI School 2026), 3-7 August 2026, Vilnius (Lithuania). 
 - Deforce, B., **Roa Llanos, J.**, Baesens, B., Diels, J., Serral Asensio, E. (2025). *GREEN-IT: A novel sustainability-driven IoT-based analytics suite for smart irrigation*. Leuven.AI conference, Leuven (Belgium). 
