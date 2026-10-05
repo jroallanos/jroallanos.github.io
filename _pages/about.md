@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Joaquín Roa LLanos. I am a **PhD Researcher** currently at LIRIS, **KU Leuven**, Brussels, Belgium. 
+My name is Joaquín Roa Llanos. I am a **PhD Researcher** currently at LIRIS, **KU Leuven**, Brussels, Belgium. 
 
 <!-- My name is Joaquín Roa Llanos, and I am a **PhD Researcher** at the LIRIS Group, KU Leuven (Brussels, Belgium). I am currently pursuing a PhD in Business Economics at the Faculty of Economics and Business, **KU Leuven**. -->
 
