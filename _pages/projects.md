@@ -17,7 +17,7 @@ nav_order: 4
 - **Jun. 2023 - Dec. 2023.** 'Preparation of the Regional Development Strategy of the Tarapacá Region 2023-2033'. Tarapacá Regional Government. **Project Engineer**.
 - **May. 2023 - Feb. 2025.** 'Information analysis system in online educational platforms: Learning Analytics to improve educational processes'. **Coordinator \& Project Engineer**. -->
 
-- **Ago. 2025 - Act.** 'GREEN-IT: A novel value-driven IoT-based analytics suite for smart irrigation'. FWO. **PhD Researcher.**
+- **Ago. 2025 - Act.** 'GREEN-IT: A novel value-driven IoT-based analytics suite for smart irrigation'. The Research Foundation -- Flanders (FWO), KU Leuven. **PhD Researcher.**
 - **Jun. 2024 - Oct. 2025** 'Modelo para la detección de licencias médicas sin fundamento médico'. Superintendencia de Seguridad Social. **Ingeniero de Proyecto.**
 - **Dic. 2024 - Sept. 2025** 'Diagnóstico Gobernanza y Participación Política de Movilidad RMS'. Gobierno Metropolitano de Santiago. **Ingeniero de Proyecto.**
 - **May. 2023 - Feb. 2025.** 'FONDEF Sistema de análisis de información en plataformas educacionales online: Learning Analytics para mejorar procesos educativos'. **Coordinador e Ingeniero de Proyecto**.
