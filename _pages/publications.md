@@ -10,7 +10,7 @@ nav_order: 3
 
 ## journal articles
 
-- Vairetti, C., Maldonado, S., Weber, R., **Roa Llanos, J.** (2026). *Explainable Spatiotemporal Modeling in Crime Analytics: Robbery Prediction via Graph Neural Networks*. Expert Systems with Applications, 134457. <https://doi.org/10.1016/j.eswa.2026.134457>
+- Vairetti, C., Maldonado, S., Weber, R., **Roa Llanos, J.** (2027). *Explainable Spatiotemporal Modeling in Crime Analytics: Robbery Prediction via Graph Neural Networks*. Expert Systems with Applications, 334(Part B), 134457. <https://doi.org/10.1016/j.eswa.2026.134457>
 
 
 ## conference proceedings
