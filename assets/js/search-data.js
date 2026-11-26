@@ -85,6 +85,14 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-was-published-in-expert-systems-with-applications",
           title: 'Our paper was published in Expert Systems with Applications!',
           description: "",
+          section: "News",},{id: "news-i-am-organizing-a-session-at-euro-2027",
+          title: 'I am organizing a session at EURO 2027.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20261188EURO27/";
+            },},{id: "news-our-new-paper-at-poem-2026-has-been-published",
+          title: 'Our new paper (at PoEM 2026) has been published.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
