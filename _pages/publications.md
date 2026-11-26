@@ -15,7 +15,7 @@ nav_order: 3
 
 ## conference proceedings
 
-- **Roa Llanos, J.**, Kalai, T., Snoeck, M., Serral Asensio, E. (2027). *A MERODE Domain Model for Smart Irrigation Experiments: Addressing Sensor Data Collection and Integration*. In: Kavakli, E., Koutsopoulos, G., Loucopoulos, P. (eds) The Practice of Enterprise Modeling. PoEM 2026. Lecture Notes in Business Information Processing, vol 608. Springer, Cham. https://doi.org/10.1007/978-3-032-45753-0_24
+- **Roa Llanos, J.**, Kalai, T., Snoeck, M., Serral Asensio, E. (2027). *A MERODE Domain Model for Smart Irrigation Experiments: Addressing Sensor Data Collection and Integration*. In: Kavakli, E., Koutsopoulos, G., Loucopoulos, P. (eds) The Practice of Enterprise Modeling. PoEM 2026. Lecture Notes in Business Information Processing, vol 608. Springer, Cham. <https://doi.org/10.1007/978-3-032-45753-0_24>
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *Forecasting Hydric Stress in Pear Trees via Temporal Fusion Transformers and Microtensiometer Data*. In Proceedings of the 24th Conference of the International Federation of Operational Research Societies (IFORS 2026) (abstract), 12–17 July 2026, Vienna (Austria). 
 - **Roa Llanos, J.**, Diels, J., Serral Asensio, E. (2026). *Causal Estimation of Midday Stem Water Potential for Decision-Oriented Irrigation Scheduling*. In Proceedings of the 40th Annual Conference of the Belgian Operational Research Society (abstract), Leuven (Belgium). 
 - Vairetti, C., Maldonado, S., Weber, R., **Roa Llanos, J.**, Jara, R., Queirolo, J. T. (2025). *Burglary prediction using graph-based deep learning on crime reporting app data*. In Proceedings of the 34th European Conference on Operational Research (abstract), Leeds (United Kingdom). 
